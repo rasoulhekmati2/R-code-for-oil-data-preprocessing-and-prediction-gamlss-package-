@@ -1,4 +1,3 @@
-### Argus coding Challenge
 #0) load the packages.
 # load libraries
 library(gamlss)
